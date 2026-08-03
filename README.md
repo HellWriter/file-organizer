@@ -5,7 +5,7 @@ A sleek, Python-based desktop application built with `customtkinter` that automa
 ## Features
 
 - **Modern GUI**: Built with CustomTkinter for a clean, system-native dark/light mode appearance.
-- **Sort by Exact Extension**: Dynamically creates folders named after the file extensions.
+- **Sort by Format/Extension**: Dynamically creates folders named after the file extensions.
 - **Specific Targeting**: Choose to clean the entire folder automatically, or input specific extensions to organize (e.g., `jpg, mp4, pdf`) while ignoring the rest.
 - **Move vs. Copy**: Gives you the option to completely move (cut) files to the new location or just copy them to keep your originals intact.
 - **Custom Destinations**: Organize files within the same folder, or select an entirely different drive/directory as the destination.
